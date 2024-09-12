@@ -1,0 +1,19 @@
+html, body {
+    background-color: rgb(22, 22, 92);
+}
+
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.row {
+    width: 100%;
+}
+
+.card-body {
+    background-color: white;
+    padding: 0 0.5rem;
+}
